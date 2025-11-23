@@ -1,9 +1,9 @@
 ﻿namespace Docnet
 {
-	public enum UrlFormatting
-	{
-		None,
-		Strip,
-		Dashes
-	}
+    public enum UrlFormatting
+    {
+        None,
+        Strip,
+        Dashes
+    }
 }

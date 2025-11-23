@@ -6,6 +6,6 @@
 
         Relative,
 
-		RelativeAsFolder
+        RelativeAsFolder
     }
 }
